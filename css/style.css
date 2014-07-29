@@ -51,10 +51,24 @@ a {
     transition: all .2s ease-in-out;
 }
 
+/* Social Icons Bottom of Page */
+.social-icons a{
+    color:white;
+    letter-spacing: 2em;
+}
+
+.menu-specials ul{
+    list-style: none;
+}
+
+.menu-specials ul li{
+    
+}
+
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #f2f2f2;
 }
 
 .light {
